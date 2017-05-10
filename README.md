@@ -7,6 +7,7 @@ The script currently creates two files: **edge_list.txt**, which contains a list
 Important: **you need a soundcloud client Id for this script to work**. see more at http://developers.soundcloud.com/
 
 If you have the client id, just download `scraper.py`, and run in your console:
+
 `python scraper.py yourClientId firstUserIdToFetch`
 
 And you're all set. the script will do the rest.
